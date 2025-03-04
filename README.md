@@ -23,7 +23,7 @@ A **ToDo App** built with **React + Vite** for the frontend and **MongoDB** as t
 - **State Management:** React Hooks / Context API
 
 ## 📸 Project Visuals
-![ZenList Preview](./DEMO_VIDEO.mp4)
+<video src="./DEMO_VIDEO.mp4" controls width="600"></video>
 ![ZenList Preview](./public/zenlist.png)
 
 ## ⚙️ How to Run Locally
